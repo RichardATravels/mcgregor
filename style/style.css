@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-image: url('../img/boxing.jpg');
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+h4 {
+    font-weight: italic;
+}
+
+.conor {
+    height: 35%;
+    width: 35%;
+    float: left;
+    flex: 1;
+}
+
+p {
+   float: left;
+}
+
+.mainthing {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+.square{
+    width: 30%;
+    height: 600px;
+    Background-color: rgba(71, 71, 71, 0.486);
+    margin: auto;
+    flex: 2;
+}
